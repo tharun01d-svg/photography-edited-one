@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Elysian Photography Studio",
+  "description": "A premium, cinematic portfolio and booking experience for Elysian Studio, Paris\u0027 premier editorial \u0026 portrait photography studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
